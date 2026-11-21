@@ -3,6 +3,6 @@ This UI is made mainly for people who experience trouble using the standard UI s
 
 When u get the compiled UI, make sure your loader is in the same folder as the UI itself. Do **NOT** Ask someone for a loader, as they will get blacklisted.
 
-# Plug-and-go?
+# Plug-and-play?
 
-Sure! The compiled UI is in *Releases*
+Sure! The compiled UI is in *Releases*.
